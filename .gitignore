@@ -1,0 +1,7 @@
+build/
+*.ckey
+*.qsv
+*.sk.qsv
+*.tmp
+*.log
+qsv_cloud_body.tmp
